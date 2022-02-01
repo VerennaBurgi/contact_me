@@ -1,0 +1,33 @@
+.body {
+   padding: 0;  
+   margin: 0;
+   text-align: center; 
+}
+.parent {
+    border: 1px solid black;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 250px;
+    font-family: 'Supermercado One', cursive;
+}
+.contact_me {
+    padding: 18px;
+}
+.first_name {
+    margin-bottom: 12px;
+}
+.last_name {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.email {
+    margin-top: 12px;
+    margin-bottom: 12px; 
+}
+.submit {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#submitButton {
+    width: 90%;
+}
